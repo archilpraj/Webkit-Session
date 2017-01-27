@@ -1,0 +1,7 @@
+make directory
+cd directory
+git init
+notepad filename.txt
+git add filename.txt
+git status
+git commit -m "created hello.txt"
