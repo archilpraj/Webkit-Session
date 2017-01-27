@@ -5,3 +5,10 @@ notepad filename.txt
 git add filename.txt
 git status
 git commit -m "created hello.txt"
+git log
+git branch
+git revert
+git command --help (opens offline documentation)
+git checkout
+git checkout master
+git reset HEAD~
