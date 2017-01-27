@@ -12,3 +12,5 @@ git command --help (opens offline documentation)
 git checkout
 git checkout master
 git reset HEAD~
+git remote add origin https://github.com/archilpraj/Webkit-Session.git
+git push origin master
